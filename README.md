@@ -1,52 +1,72 @@
- <div align="center">
-  
-# يوسف سليمان - مهندس البرمجيات ونظم المعلومات
-### Software & Information Systems Engineer
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="15%" alt="Welcome"/>
-
-</div>
-
-## 🛠 Technical Expertise
-
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-### Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## 📚 Education & Certifications
-- **Bachelor's Degree** in Software Engineering - [Your University]
-- **Certified** Information Systems Engineer
-- Oracle Certified Professional: Java SE Programmer
-
-## 🔭 Current Focus
-- Developing scalable enterprise systems
-- Cloud architecture and microservices
-- Information systems security
-
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blue&style=flat)
-
-</div>
+ <!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>يوسف سليمان - استكشاف التعلم العميق</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Inter Font for modern look -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a; /* خلفية داكنة لتباين أفضل */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh; /* ارتفاع كامل للشاشة */
+            margin: 0;
+            padding: 20px; /* مسافة داخلية للشاشات الصغيرة */
+            box-sizing: border-box;
+        }
+        .content-card {
+            background-color: #1e293b; /* خلفية داكنة أفتح قليلاً للبطاقة */
+            border-radius: 1.5rem; /* زوايا أكثر استدارة */
+            padding: 2.5rem; /* مسافة داخلية أكبر */
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 10px 10px -5px rgba(0, 0, 0, 0.2); /* ظل أقوى */
+            text-align: center;
+            max-width: 900px; /* أقصى عرض للبطاقة */
+            width: 100%; /* عرض كامل على الشاشات الأصغر */
+            border: 1px solid #334155; /* حدود خفية */
+        }
+        h1 {
+            color: #f8fafc; /* نص فاتح للعنوان */
+            font-size: 2.5rem; /* عنوان أكبر */
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        p {
+            color: #cbd5e1; /* رمادي أفتح للفقرة */
+            font-size: 1.125rem; /* نص أكبر قليلاً */
+            margin-top: 1.5rem;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 1rem; /* زوايا مستديرة للصورة */
+            border: 3px solid #6366f1; /* حدود مميزة حول الـ GIF */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.15); /* ظل للـ GIF */
+        }
+    </style>
+</head>
+<body>
+    <div class="content-card">
+        <h1>رحلة إلى أعماق التعلم: رؤية يوسف سليمان</h1>
+        <div class="flex justify-center items-center mb-6">
+            <!-- Animated GIF Image Placeholder -->
+            <img src="https://placehold.co/800x450/00008B/FFFFFF?text=Diving+Whale+to+Deep+Learning+GIF"
+                 alt="صورة GIF متحركة لحوت يغوص نحو التعلم العميق"
+                 class="w-full max-w-2xl"
+                 onerror="this.onerror=null; this.src='https://placehold.co/800x450/CCCCCC/333333?text=خطأ+في+تحميل+الصورة';">
+        </div>
+        <p>
+            تُجسد هذه الصورة المتحركة المُلهمة رحلة الغوص العميق في عالم "التعلم العميق" (Deep Learning)، حيث يلتقي الشغف بالاستكشاف مع قمة الابتكار التكنولوجي. إنها تمثل البحث عن المعرفة والاكتشافات الرائدة في مجال الذكاء الاصطناعي.
+        </p>
+        <p>
+            هذا التصور البصري يعكس التزامنا بالتعمق في أحدث التقنيات وتقديم حلول برمجية متطورة.
+        </p>
+    </div>
+</body>
+</html>
