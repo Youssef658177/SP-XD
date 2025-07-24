@@ -1,51 +1,60 @@
-                 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Youssef Soliman - Software Engineer</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet"/>
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      background-color: #f8fafc;
-      color: #1e293b;
-      padding: 2rem;
-    }
-    .code-block {
-      background: #0f172a;
-      color: #f8fafc;
-      padding: 1.25rem;
-      border-radius: 0.75rem;
-      font-family: monospace;
-      margin-top: 1rem;
-      overflow-x: auto;
-    }
-  </style>
-</head>
-<body>
+div align="center" width="50">
 
-  <div class="text-center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="Engineer Working GIF" class="mx-auto rounded-xl border-4 border-blue-500 shadow-xl" />
-    
-    <h1 class="text-3xl font-bold text-blue-700 mt-4">👋 Hello Engineers</h1>
-    <h2 class="text-xl font-semibold text-gray-700 mt-2">I'm <span class="text-blue-600">Youssef Soliman</span> – Information Systems Engineer & Software Engineering Candidate</h2>
-  </div>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders!" />
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer at work" />
+<br>
 
-  <div class="mt-10">
-    <h3 class="text-2xl font-semibold text-gray-800 mb-4">🚀 About Me</h3>
-    <div class="code-block">
-<pre><code>const Youssef = {
-  degree: "BSc in Information Systems",
-  pursuing: "Software Engineering Equivalency",
-  codingSince: 2019,
-  interests: ["System Design", "App Development", "DevOps", "Security"],
-  toolsILove: ["Linux", "VS Code", "Git", "Flutter", "Figma"],
-  funFact: "I build, break, and fix – that's how I grow."
-};</code></pre>
-    </div>
-  </div>
+### 👨‍💻 يوسف سليمان - مهندس برمجيات ونظم معلومات  
+**Youssef Soliman – Software & Information Systems Engineer**
 
-</body>
-</html>
+</div>
+
+---
+
+### 🧠 نبذة عني | About Me
+
+- 🎓 حاصل على درجة البكالوريوس في **هندسة البرمجيات ونظم المعلومات**.
+- 💼 متخصص في بناء الأنظمة الذكية وتطبيقات الويب والموبايل.
+- 🔧 شغوف بتحسين أداء الأنظمة، وتأمين البنية التحتية، وتصميم حلول فعالة.
+- 💻 أستخدم تقنيات متعددة منها: Flutter, React Native, Go, Python, Java, C++ وغيرها.
+- 🐧 أحب العمل على أنظمة **Linux** وأؤمن بمبدأ المصدر المفتوح (Open Source).
+
+---
+
+<details>
+<summary><strong>🎵 Busy coding & Vibing to:</strong></summary>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+---
+
+### 🛠️ Tech Stack & Tools I Use
+
+*Programming Languages:*  
+![Go](...) ![Python](...) ![Java](...) ![C++](...) ![Dart](...) ![JavaScript](...) ...
+
+*Frontend & Backend:*  
+![Flutter](...) ![React Native](...) ![HTML](...) ![CSS](...) ...
+
+*Databases & Hosting:*  
+![Firebase](...) ![SQLite](...) ![Heroku](...)
+
+*Development Tools:*  
+![VS Code](...) ![Git](...) ![Figma](...) ![Linux](...)
+
+```dart
+// Example Code
+class AboutMe extends Engineer {
+  const tools = {
+    "Languages": ["Go", "Python", "Java", "Dart", "C++", "JavaScript"],
+    "Frontend": ["Flutter", "HTML", "CSS"],
+    "Backend": ["Firebase", "SQLite"],
+    "Tools": ["Git", "Linux", "VS Code", "Figma"]
+  };
+}
